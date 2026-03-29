@@ -1,0 +1,4 @@
+# Enforce LF line endings for all Markdown files
+*.md text eol=lf
+# Also for gitattributes itself
+.gitattributes text eol=lf
